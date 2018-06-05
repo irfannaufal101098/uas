@@ -1,0 +1,11 @@
+1. Bagaimana melaporkan bug (melalui halaman “issue” dan
+template pull request) https://blog.github.com/2016-02-17-issueand-
+pull-request-templates/
+2. Bagaimana cara memberi saran fitur baru,
+3. Bagaimana melakukan konfigurasi lingkungan kerja dan
+menjalankan tes.
+4. Panduan menulis CONTRIBUTING.md ?
+https://help.github.com/articles/setting-guidelines-for-repositorycontributors/
+5. Template contributing file ?
+https://github.com/nayafia/contributingtemplate/
+blob/master/CONTRIBUTING-template.md
