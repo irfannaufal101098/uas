@@ -5,4 +5,5 @@ Nama Project :Sistem Informasi Laundri
 <br>Safrie Rizky Abdhandy
 <br>Akim Faurozi
 <br>Kresna Bayu
+<br>Hendro Prayitno
 <br>Deskripsi Project :Disini tim kami membuat program Sistem Informasi Laundri dimana memudahkan jasa laundri untuk menegemen data order
